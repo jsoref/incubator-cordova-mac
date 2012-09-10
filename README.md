@@ -10,7 +10,7 @@ Cordova Mac belongs to Apache Cordova project. Apache Cordova is a platform for 
 
 Repositories
 ============
-Main code repository can be found at [git://git.apache.org/incubator-cordova-mac.git](git://git.apache.org/incubator-cordova-mac.git), but if you feel more confortable with GitHub, [https://github.com/apache/incubator-cordova-mac](https://github.com/apache/incubator-cordova-mac)
+Main code repository can be found at [git://git.apache.org/incubator-cordova-mac.git](git://git.apache.org/incubator-cordova-mac.git), but if you feel more comfortable with GitHub, [https://github.com/apache/incubator-cordova-mac](https://github.com/apache/incubator-cordova-mac)
 
 Apache Software Foundation
 ==========================
